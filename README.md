@@ -27,8 +27,6 @@ cp .env.example .env
 Update database credentials in .env file:
 
 env
-نسخ
-تحرير
 DB_CONNECTION=mysql  
 DB_HOST=127.0.0.1  
 DB_PORT=3306  
@@ -38,8 +36,6 @@ DB_PASSWORD=your_database_password
 Run migrations:
 
 bash
-نسخ
-تحرير
 php artisan migrate
 Start the server:
 
@@ -57,8 +53,6 @@ Delete a Post ❌
 
 📂 Project Structure
 bash
-نسخ
-تحرير
 /app  
   ├── Models/Post.php                # Eloquent model for posts  
   ├── Http/Controllers/PostController.php  # Handles CRUD logic  
@@ -81,13 +75,6 @@ Engine
 This project is open-source under the MIT License. Feel free to use and improve it!
 
 Made with ❤️ by Tarek Elsayed
-
-markdown
-نسخ
-تحرير
-
-نسخ
-تحرير
 
 
 نسخ
