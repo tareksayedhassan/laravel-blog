@@ -75,11 +75,3 @@ Engine
 This project is open-source under the MIT License. Feel free to use and improve it!
 
 Made with ❤️ by Tarek Elsayed
-
-
-نسخ
-تحرير
-
-bash
-نسخ
-تحرير
